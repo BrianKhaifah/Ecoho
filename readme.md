@@ -1,11 +1,11 @@
 <!-- Application Name -->
->About Me
+>This Is Me!
 ![Kenyan](img/Brian.jpg)
 
 <!-- Description -->
-_I am Brian Mkenya A software developer student at Moringa School located In Nairobi Kenya._
+_Hi I'm Brian Mkenya A software developer student at [Moringa](https://moringaschool.com) School located In Nairobi Kenya._
 ## contributors
-#### Project was done by ***_Brian Mkenya_***
+#### Project was done by:  ***_Brian Mkenya_***
 ## Description
 ### _The document provides a detailed information of my personality,what i do and love doing as i enjoy doing._
  >The table below gives an illustration of Brian 
@@ -24,22 +24,19 @@ _I am Brian Mkenya A software developer student at Moringa School located In Nai
 ---
 
 ## Setup/installation 
-### _No installation requed.You only need access with a connected device to the internet with working browser(Chrome is advisable)_
+### _No installation required.You only need access with a connected device to the internet with working browser(Chrome is advisable)_
 
 ## Known Bugs
 ### _there are no Bugs on this file but should you experience any difficulties in accessing or getting the information you need, or come across anything kindly share with me via my_
-<!-- [Email](briankhaifah@gmail.com) personal. -->
+
 Personal
-[Email](https://www.youtube.com/watch?v=weeI1G46q0o&list=RDMM&index=3)
-
-[Email](https://mail.google.com/mail/u/0/#inbox)
- 
-
-
+[Email](brian.obuom@student.moringaschool.com)
 ## Technology Used
-### _There are no advanced or complicated technology that was used in making this file except for the ones in access to all developers and best suited for different browser.This are:Html,Css & Readme_
+### _There are no advanced or complicated technology that was used in making this file except for the ones in access to all developers and best suited for different browser._
+This are:***_Visual Studio,Html,Css,Readme_***
+       
 
-## lincense
+## license
 
 
 Copyright (c) 2021 BrianKhaifah
