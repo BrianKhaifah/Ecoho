@@ -14,15 +14,15 @@
 
 
 
-|Table |Table | Table|Table|
-|  --- |   ---|   ---|---  |
-|Project |Two   |Three |     |
-|   |  |      |      |     |
-|One   |Two   |Three |     |
-|   |  |      |      |     |
-|One   |Two   |Three |     |
-|   |  |      |      |     |
-|One   |Two   |Three |     |
+|Project Name  |Description | Repo Link|
+|  --- |   ---|   ---|
+|Favorite Band |A website about a musical Band   |https://briankhaifah.github.io/Favorite-Band/ |     
+|   |  |      |      |     
+|Anita's Kitchen   |Hotel Website   |https://briankhaifah.github.io/Anitas_Kitchen-2/ |
+|   |  |      |      |
+|Dairy Business   |JavaScript Project   |https://briankhaifah.github.io/Dairy-Business/ |
+|   |  |      |      |  
+|Kenya   |Tour Website   |https://github.com/BrianKhaifah/kenya.git |
 ---
 
 ## **Setup/Installation**
