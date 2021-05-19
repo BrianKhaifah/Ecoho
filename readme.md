@@ -1,13 +1,15 @@
 <!-- Application Name -->
+
 >This Is Me!
 ![Kenyan](img/Brian.jpg)
 
 <!-- Description -->
-_Hi I'm Brian Mkenya A software developer student at [Moringa](https://moringaschool.com) School located In Nairobi Kenya._
-## contributors
+
+#### _Hi I'm Brian Mkenya A software developer student at [Moringa](https://moringaschool.com) School located In Nairobi Kenya._
+## **Contributors**
 #### Project was done by:  ***_Brian Mkenya_***
-## Description
-### _The document provides a detailed information of my personality,what i do and love doing as i enjoy doing._
+## **Description**
+#### _The document provides a detailed information of my personality,what i do and love doing as i enjoy doing._
  >The table below gives an illustration of Brian 
 
 
@@ -23,20 +25,20 @@ _Hi I'm Brian Mkenya A software developer student at [Moringa](https://moringasc
 |One   |Two   |Three |     |
 ---
 
-## Setup/installation 
-### _No installation required.You only need access with a connected device to the internet with working browser(Chrome is advisable)_
+## **Setup/Installation**
+#### _No installation required.You only need access with a connected device to the internet with working browser(Chrome is advisable)_
 
-## Known Bugs
-### _there are no Bugs on this file but should you experience any difficulties in accessing or getting the information you need, or come across anything kindly share with me via my_
+## **Known Bugs**
+#### _there are no Bugs on this file but should you experience any difficulties in accessing or getting the information you need, or come across anything kindly share with me via my_
 
 Personal
 [Email](brian.obuom@student.moringaschool.com)
-## Technology Used
-### _There are no advanced or complicated technology that was used in making this file except for the ones in access to all developers and best suited for different browser._
+## **Technology Used**
+#### _There are no advanced or complicated technology that was used in making this file except for the ones in access to all developers and best suited for different browser._
 This are:***_Visual Studio,Html,Css,Readme_***
        
 
-## license
+## **License**
 
 
 Copyright (c) 2021 BrianKhaifah
