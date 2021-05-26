@@ -1,0 +1,215 @@
+*{
+    text-decoration: none;
+}
+.landing{
+    background-color: rgb(59, 33, 1);
+    height: 700px;
+    width: 100%;
+    color: white;
+    /* position: absolute; */
+
+}
+
+#nav{
+    float: right;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+}
+
+#nav ul{
+    color: white;
+    display: inline;
+    
+}
+#nav a{
+    color: white;
+   margin: 10px;
+   
+}
+#home{
+    width: 100px;
+    height: 50px;
+    background-color:rgba(245, 140, 3, 0.541);
+    justify-content: center;
+    color: white;
+    padding: 10px;
+}
+#eco {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+ 
+    
+}
+#eco2{
+    padding: 20px;
+   
+}
+.world{
+
+}
+#class{
+   font-size: 75px;
+   font-weight: 30px;
+   padding: 20px;
+}
+#class2{
+    font-size: 25px;
+    font-weight: 30px;
+    padding: 20px;
+ }
+ .world{
+     
+     height: 610px;
+     width: 800px ;
+     position: relative;
+     /* display: flex; */
+     background-repeat: no-repeat;
+     background-size: cover;
+     /* justify-content: flex-end; */
+    
+     background-image:url("img/bed.jpeg");
+     /* background-position: right; */
+     /* padding-top: 150px;
+     padding-right: 200px; */
+     float: right;
+     
+     
+ }
+
+ #home2{
+    width: 100px;
+    height: 50px;
+    background-color:rgba(245, 140, 3, 0.541);
+    justify-content: center;
+    color: white;
+   margin: 20px;
+}
+
+/* page 2 */
+
+.page2{
+        background-color: whitesmoke;
+        height: 600px;
+        /* width: 100%; */
+        /* color: white; */
+        /* display: flex; */
+        
+         
+    
+}
+#center h2{
+    text-align: center;
+}
+#flex{
+    display: flex;
+}
+#image{
+    height: 500px;
+    width: 750px;
+    background-image: url("img/pool2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#image img{
+    padding-top: 150px;
+    padding-left: 200px;
+}
+#home1{
+    width: 200px;
+    height: 60px;
+    background-color:rgba(248, 97, 9, 0.698);
+    justify-content: center;
+    color: white;
+    padding: 10px;
+}
+    
+
+
+/* page 3 */
+
+#pass h1{
+    color: rgba(248, 97, 9, 0.698);
+}
+
+#pass{
+    padding: 100px;
+    
+}
+
+#image2{
+    height: 500px;
+    width: 750px;
+    /* background-image: url("img/pool2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+#log{
+    width: 400px;
+    height: 500px;
+    margin: 6% auto;
+    padding: 10px;
+
+}
+.submit{
+    width: 412px;
+    margin: 10px;
+    height: 50px;
+    background-color:rgba(248, 97, 9, 0.698);
+}
+.input-field{
+    width: 400px;
+    margin: 10px;
+    height: 50px;
+
+}
+#pass2 h1{
+    color: rgba(248, 97, 9, 0.698);
+
+}
+
+/* page 4 */
+
+
+.icons img{
+    width: 30px;
+    height: 30px;
+    margin: 12px;
+    cursor: pointer;
+
+
+}
+.footer{
+    display: table;
+    clear: both;
+    padding: 20px;
+}
+.column{
+    float: left;
+    width:33%;
+  
+}
+#paragraph img{
+    background-color:rgba(248, 97, 9, 0.698);
+
+}
+#paragraph{
+    color:rgba(248, 97, 9, 0.698);
+
+}
+#large{
+    font-size:  30px;
+}
+.contacts{
+    width: 100%;
+    height: 500px;
+    background-color: bisque;
+   
+}
+#box p{
+    padding: 30px;
+}
+
